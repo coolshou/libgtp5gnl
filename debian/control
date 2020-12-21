@@ -12,9 +12,9 @@ Build-Depends: debhelper (>= 9),
                pkg-config,
                libmnl-dev
 Standards-Version: 3.9.8
-Vcs-Git: git://git.osmocom.org/libgtpnl.git
-Vcs-Browser: http://git.osmocom.org/gitweb?p=libgtpnl.git;a=summary
-Homepage: https://projects.osmocom.org/projects/openggsn
+Vcs-Git: https://github.com/PrinzOwO/libgtp5gnl.git
+Vcs-Browser: https://github.com/PrinzOwO/libgtp5gnl.git
+Homepage: https://github.com/PrinzOwO/libgtp5gnl.git
 
 Package: libgtp5gnl0
 Section: libs
